@@ -8,8 +8,8 @@ function App() {
 
   return (
     <>
-      <a href="https://naiminathayurveda.org/admissions"></a>
-      <div className="goHome">Go to Homepage</div>
+      <a href="https://naiminathayurveda.org/admissions">
+      <div className="goHome">Go to Homepage</div></a>
       <div id="formsID7375"></div>
     </>
   );
